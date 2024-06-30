@@ -1583,4 +1583,4 @@ Let the learning begin!
   - [ ] Understanding When to Capitalize Software Development Costs
   - [ ] Implications of Capitalization on Project Management
      
-<script src="script.js"></script>
+<script src="assets/js/script.js"></script>
