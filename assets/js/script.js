@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
   button.innerHTML = '✨ Select random topic';
   document.body.appendChild(button);
 
-  const topicItems = document.querySelectorAll('.markdown-body > ul > li.task-list-item');
+  const topicItems = document.querySelectorAll('.markdown-body > li.task-list-item');
   let currentHighlight = null;
 
   function getFirstTextNode(element) {
