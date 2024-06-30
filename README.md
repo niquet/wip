@@ -1582,3 +1582,5 @@ Let the learning begin!
 - [ ] Software Capitalization
   - [ ] Understanding When to Capitalize Software Development Costs
   - [ ] Implications of Capitalization on Project Management
+     
+<script src="script.js"></script>
