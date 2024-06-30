@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Add button
   const button = document.createElement('button');
-  button.id = 'randomTaskButton';
+  button.id = 'randomButton';
   button.innerHTML = '✨ Select random topic';
   document.body.appendChild(button);
 
