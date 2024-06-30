@@ -35,20 +35,11 @@
   padding-left: 1.5em;
 }
 
-// Ensure nested task lists maintain indentation
-.markdown-body .task-list-item .task-list .task-list {
-  padding-left: 3em;
-}
-
-// Ensure nested task lists maintain indentation
-.markdown-body .task-list-item .task-list .task-list .task-list {
-  padding-left: 4.5em;
-}
-
 .highlight-task {
   background-color: yellow;
   transition: background-color 0.3s ease;
 }
+
 #randomButton {
   padding: 10px 15px;
   background-color: #0366d6;
@@ -57,6 +48,7 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
 #randomButton:hover {
   background-color: #0056b3;
 }
