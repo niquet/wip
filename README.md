@@ -42,62 +42,64 @@ This learning plan is a living, breathing entity. It should grow and evolve with
 
 ---
 
-## Tips
+<details>
+  <summary><h2>Tips</h2></summary>
 
-### Prioritization and Focus
-
-- Identify and always complete your #1 priority task first on time
-- Use the "Make it work, make it right, make it fast" principle
-  1. Create a solution that solves the problem
-  2. Improve its structure and maintainability
-  3. Optimize for performance if needed
-- Embrace "done" over "perfect":
-  - Strive for completion rather than perfection
-  - A finished product can be improved, but an unfinished one provides no value
-- Prioritize iterations over hours:
-  - Aim for quick, iterative cycles rather than long, unbroken work sessions
-  - This allows for regular feedback and improvement
-- Use time-boxing techniques to maintain focus: allocate specific time slots for tasks to maintain focus and prevent perfectionism
-- Balance deep work with iterative cycles
-  - Engage in long, uninterrupted work sessions for complex tasks
-  - Use these sessions to make significant progress on iterations
-  - Follow Karpathy's advice on avoiding "snacking" and "eating the meal" (go deep, for hours at a time)
-- Regularly review and adjust your process: Reflect on what's working and what isn't, and be willing to adapt your approach
-
-### Problem-Solving and Unblocking
-
-1. Define the Problem
-   - Clearly identify what's blocking your progress
-   - Break complex issues into smaller, manageable parts
-2. Seek Solutions
-   - Research existing solutions or similar problems
-   - Use rubber duck debugging (explain the problem out loud)
-   - Change your environment for a fresh perspective
-3. Manage Your Approach
-   - Time-box problem-solving attempts
-   - Implement temporary workarounds when necessary
-   - Use the "5 Whys" technique to find root causes
-4. Leverage Resources
-   - Seek help proactively (colleagues, mentors, online communities)
-   - Pair program with a teammate when stuck
-5. Document and Learn
-   - Keep a log of blockers and how you overcame them
-   - Treat blockers as learning opportunities
-6. Stay Persistent
-   - Maintain curiosity and persistence
-   - View challenges as chances to grow your problem-solving abilities
-
-### Workflow and Productivity
-- Use the GTD (Getting Things Done) method:
-  - Capture all tasks and ideas
-  - Clarify actions required
-  - Organize into categories
-  - Regularly review and reflect
-  - Take action
-- Break large tasks into smaller steps
-- Set clear, specific goals for each task or project
-- Manage your "Waiting For" list effectively
-- Create a functional, distraction-free workspace
+  ### Prioritization and Focus
+  
+  - Identify and always complete your #1 priority task first on time
+  - Use the "Make it work, make it right, make it fast" principle
+    1. Create a solution that solves the problem
+    2. Improve its structure and maintainability
+    3. Optimize for performance if needed
+  - Embrace "done" over "perfect":
+    - Strive for completion rather than perfection
+    - A finished product can be improved, but an unfinished one provides no value
+  - Prioritize iterations over hours:
+    - Aim for quick, iterative cycles rather than long, unbroken work sessions
+    - This allows for regular feedback and improvement
+  - Use time-boxing techniques to maintain focus: allocate specific time slots for tasks to maintain focus and prevent perfectionism
+  - Balance deep work with iterative cycles
+    - Engage in long, uninterrupted work sessions for complex tasks
+    - Use these sessions to make significant progress on iterations
+    - Follow Karpathy's advice on avoiding "snacking" and "eating the meal" (go deep, for hours at a time)
+  - Regularly review and adjust your process: Reflect on what's working and what isn't, and be willing to adapt your approach
+  
+  ### Problem-Solving and Unblocking
+  
+  1. Define the Problem
+     - Clearly identify what's blocking your progress
+     - Break complex issues into smaller, manageable parts
+  2. Seek Solutions
+     - Research existing solutions or similar problems
+     - Use rubber duck debugging (explain the problem out loud)
+     - Change your environment for a fresh perspective
+  3. Manage Your Approach
+     - Time-box problem-solving attempts
+     - Implement temporary workarounds when necessary
+     - Use the "5 Whys" technique to find root causes
+  4. Leverage Resources
+     - Seek help proactively (colleagues, mentors, online communities)
+     - Pair program with a teammate when stuck
+  5. Document and Learn
+     - Keep a log of blockers and how you overcame them
+     - Treat blockers as learning opportunities
+  6. Stay Persistent
+     - Maintain curiosity and persistence
+     - View challenges as chances to grow your problem-solving abilities
+  
+  ### Workflow and Productivity
+  - Use the GTD (Getting Things Done) method:
+    - Capture all tasks and ideas
+    - Clarify actions required
+    - Organize into categories
+    - Regularly review and reflect
+    - Take action
+  - Break large tasks into smaller steps
+  - Set clear, specific goals for each task or project
+  - Manage your "Waiting For" list effectively
+  - Create a functional, distraction-free workspace
+</details>
 
 ---
 
