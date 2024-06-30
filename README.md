@@ -1,3 +1,6 @@
+---
+---
+
 # Work in Progress (WIP)
 
 This README outlines my personal, curated learning path for diving really deep into (advanced [backend]) software engineering concepts and practices. It is meant as my companion in a year-long (and potentially career-long) journey of continuous learning and curiosity in backend software engineering. It's designed to foster a perpetual growth mindset, encouraging me to stay curious, and adaptable.
