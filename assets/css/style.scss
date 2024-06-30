@@ -3,38 +3,60 @@
 
 @import "{{ site.theme }}";
 
+// Remove default bullets from task list items
 .task-list-item {
   list-style-type: none;
 }
 
-/*
+// Add space after checkboxes
 .task-list-item-checkbox {
   margin-right: 0.5em;
 }
 
-.markdown-body ul, .markdown-body ol {
-  padding-left: 2em;
+// Adjust padding for all lists
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 1.5em;
 }
+
+// Specific adjustment for task lists
+.markdown-body .task-list {
+  padding-left: 0;
+}
+
+// Align task list items with regular list items
 .markdown-body .task-list-item {
   margin-left: -1.5em;
-}
-*/
-
-.task-list-item-checkbox {
-  margin-right: 0.5em;
+  padding-left: 1.5em;
 }
 
-// Reset left padding for all unordered lists
-ul {
-  padding-left: 20px;
+// Ensure nested task lists maintain indentation
+.markdown-body .task-list-item .task-list {
+  padding-left: 1.5em;
 }
 
-// Adjust indentation for nested lists
-ul ul {
-  padding-left: 20px;
+// Ensure nested task lists maintain indentation
+.markdown-body .task-list-item .task-list .task-list {
+  padding-left: 3em;
 }
 
-// Ensure task lists align with regular list items
-ul.task-list {
-  padding-left: 0;
+// Ensure nested task lists maintain indentation
+.markdown-body .task-list-item .task-list .task-list .task-list {
+  padding-left: 4.5em;
+}
+
+.highlight-task {
+  background-color: yellow;
+  transition: background-color 0.3s ease;
+}
+#randomButton {
+  padding: 10px 15px;
+  background-color: #0366d6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#randomButton:hover {
+  background-color: #0056b3;
 }
