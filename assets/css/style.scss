@@ -10,3 +10,10 @@
 .task-list-item-checkbox {
   margin-right: 0.5em;
 }
+
+.markdown-body ul, .markdown-body ol {
+  padding-left: 2em;
+}
+.markdown-body .task-list-item {
+  margin-left: -1.5em;
+}
