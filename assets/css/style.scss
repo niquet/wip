@@ -41,9 +41,14 @@
 }
 
 #randomButton {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
   padding: 10px 15px;
   background-color: #0366d6;
   color: white;
+  font-weight: 500;
   border: none;
   border-radius: 5px;
   cursor: pointer;
