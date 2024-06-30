@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # Work in Progress (WIP)
