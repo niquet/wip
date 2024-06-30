@@ -7,6 +7,7 @@
   list-style-type: none;
 }
 
+/*
 .task-list-item-checkbox {
   margin-right: 0.5em;
 }
@@ -16,4 +17,24 @@
 }
 .markdown-body .task-list-item {
   margin-left: -1.5em;
+}
+*/
+
+.task-list-item-checkbox {
+  margin-right: 0.5em;
+}
+
+// Reset left padding for all unordered lists
+ul {
+  padding-left: 20px;
+}
+
+// Adjust indentation for nested lists
+ul ul {
+  padding-left: 20px;
+}
+
+// Ensure task lists align with regular list items
+ul.task-list {
+  padding-left: 0;
 }
