@@ -1584,4 +1584,4 @@ Let the learning begin!
   - [ ] Implications of Capitalization on Project Management
 
 
-<script src="/assets/js/script.js"></script>
+<script src="{{ site.baseurl }}/assets/js/script.js"></script>
